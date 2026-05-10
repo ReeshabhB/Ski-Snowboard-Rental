@@ -1,4 +1,4 @@
-# slope-rental 🎿
+# Ski & Snowboard Rental Software
 
 A command-line ski and snowboard rental shop management system written in Python. Tracks customers, manages equipment inventory, handles rentals, and calculates charges.
 
