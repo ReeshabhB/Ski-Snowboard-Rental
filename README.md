@@ -15,7 +15,7 @@ A command-line ski and snowboard rental shop management system written in Python
 **Requirements:** Python 3.7+
 
 ```bash
-git clone https://github.com/yourusername/slope-rental.git
+git clone https://github.com/ReeshabhB/Ski-Snowboard-Rental.git
 cd slope-rental
 python main.py
 ```
